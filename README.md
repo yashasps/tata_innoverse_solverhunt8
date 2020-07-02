@@ -65,6 +65,6 @@ put bonding boxes for social distance violators and non violators and also for t
 calsulate social distance violators and mask wearing violators and put them on the frame.                                    
 here are more examples:
 
-<img src="https://github.com/yashasps/tata_innoverse_solverhunt8/blob/master/predicted_images/example_01_predicted.png" width=350 height=250>     
-<img src="https://github.com/yashasps/tata_innoverse_solverhunt8/blob/master/predicted_images/example_04_predicted.jpg" width=400 height=250>    
+<img src="https://github.com/yashasps/tata_innoverse_solverhunt8/blob/master/predicted_images/example_01_predicted.png" width=300 height=250>| <img src="https://github.com/yashasps/tata_innoverse_solverhunt8/blob/master/predicted_images/images_predicted.jpg" width=300 height=250> 
+<img src="https://github.com/yashasps/tata_innoverse_solverhunt8/blob/master/predicted_images/example_04_predicted.jpg" width=400 height=250> |
 <img src="https://github.com/yashasps/tata_innoverse_solverhunt8/blob/master/predicted_images/pred_onemask.jpg" width=400 height=250>    
