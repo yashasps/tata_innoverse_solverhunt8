@@ -81,8 +81,13 @@ Then predict the people with yolo and predict face of people using caffemodel an
 calculate the centroid of the predicted people and calculate the euclidean diatance between them.            
 if the distanc e is less than threshold disatnce determined in configurations.py file then treat them as violators of social distancing rule.                               
 put bonding boxes for social distance violators and non violators and also for the faces wearing mask and not wearing.                                             
-calsulate social distance violators and mask wearing violators and put them on the frame.                                    
-here are more examples:
+calsulate social distance violators and mask wearing violators and put them on the frame.                 
+
+                                                                                                                                     
+
+here are some more examples:                               
+
+
 
 <img src="https://github.com/yashasps/tata_innoverse_solverhunt8/blob/master/predicted_images/example_01_predicted.png" width=300 height=250>| <img src="https://github.com/yashasps/tata_innoverse_solverhunt8/blob/master/predicted_images/images_predicted.jpg" width=350 height=250> 
 <img src="https://github.com/yashasps/tata_innoverse_solverhunt8/blob/master/predicted_images/example_04_predicted.jpg" width=400 height=250> |
