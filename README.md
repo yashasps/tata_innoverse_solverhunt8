@@ -36,7 +36,7 @@ input image |predicted image:
 <img src="https://github.com/yashasps/tata_innoverse_solverhunt8/blob/master/example_images/example_02.png" width=250 height=250>              |            <img src="https://github.com/yashasps/tata_innoverse_solverhunt8/blob/master/predicted_images/pred_example_02.png" width=250 height=250 >     
      
      
-This Project is done in 4 steps:                                        
+### This Project is done in 4 steps:                                        
     1. developing dataset for mask detection                                     
     2. building and training mask detection model                               
     3. loading yolo_v3 model, mask-detector model and predictng people with mask and also without                                 
