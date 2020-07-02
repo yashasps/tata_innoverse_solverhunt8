@@ -3,7 +3,7 @@ This is a submission for the tata innoverse solverhunt8 competition.
 
 ## Face-Mask detection and Social-Distancing system
 
-  the main objective of this system is to alert people 
+  ### the main objective of this system is to alert people 
     1. who are no wearing mask at all
     2. who are not wearing there mask properly
     3. who are not maintaing social distancing
