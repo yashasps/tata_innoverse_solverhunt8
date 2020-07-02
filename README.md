@@ -20,7 +20,7 @@ $ python distance_mask_video.py --video [path-to-image] --model_fold [path-to-al
 ```  
 
 
-## Technologies
+## Packages
 this is created using:                          
 * Python : 3.68                          
 * OpenCV : 4.2.0                       
