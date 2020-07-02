@@ -1,3 +1,3 @@
-# tata_innoverse_solverhunt8
-this is a submission for the tata innoverse solverhunt8 competition.
+# TATA_Innoverse_Solverhunt8
+This is a submission for the tata innoverse solverhunt8 competition.
 
