@@ -41,11 +41,13 @@ input image |predicted image:
     2. building and training mask detection model                               
     3. loading yolo_v3 model, mask-detector model and predictng people with mask and also without                                 
     4. calculating euclidean distance and mapping them
+    5. Alert the people using a sound clip.
+
     
 
 
 #### it provides best results when the camera is placed above a person's height and 45* to the face of that person like security camera
-#### it can also be used against videos or real time video for processing (requires good performance device)
+#### it can also be used against videos or real time video for processing (requires good computational power)
 
    
 ### step 1:
